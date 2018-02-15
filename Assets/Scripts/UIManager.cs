@@ -22,6 +22,7 @@ public class UIManager : MonoBehaviour {
 	}
 
 	public void onClickButton(){
+		//Activar y desactivar Botón
 		clic = !clic;
 	}
 }
